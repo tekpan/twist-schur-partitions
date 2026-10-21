@@ -1,1 +1,11 @@
 .DS_Store
+.DS_Store
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.toc
